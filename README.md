@@ -6,7 +6,7 @@
 🌱 I’m currently working on building UIs in React and developing Express servers<br><br>
 👯 I’m looking to collaborate on MERN stack projects<br><br>
 📫 How to reach me: parimalaganeshsp@gmail.com<br><br>
-⚡ Fun fact: I'm just a funny girl who loves coding ✨
+⚡ Fun fact: I'm just a funny girl who loves to write codes ✨
 
 
 ## 🌐 Socials:
